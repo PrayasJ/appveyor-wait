@@ -1,2 +1,3 @@
-# appveyor-wait
-Github Action to wait for Appveyor builld to complete
+# GitHub Actions
+
+[Wait for Appveyor](wait-for-Appveyor/)
